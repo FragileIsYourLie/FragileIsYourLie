@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FragileIsYourLie
-- 👀 I’m interested in fintech and cryptography
+- 👀 I’m interested in fintech and crypto
 - 🌱 I’m currently learning algebraic number theory
 - ⚡ Majored in Applied Maths
 - 😄 Minored in Statistics
