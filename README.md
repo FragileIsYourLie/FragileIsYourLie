@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FragileIsYourLie
-- 🌱 I’m currently learning algebraic number theory
+- 🌱 I’m currently turning from maths to cs
 
 <!---
 FragileIsYourLie/FragileIsYourLie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
