@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FragileIsYourLie
-- 🌱 I’m currently turning from maths to cs
+- 🌱 I’m currently turning from maths to cs / 转码日记
 
 <!---
 FragileIsYourLie/FragileIsYourLie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
